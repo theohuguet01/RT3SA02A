@@ -54,7 +54,7 @@ Ce projet consiste  dvelopper une application de gestion des absences base sur u
 
 ## Rgles de collaboration
 - Assurez-vous de documenter le code avec des commentaires clairs.
-- Effectuez des tests unitaires pour vrifier la robustesse du serveur et des clients.
+- Effectuez des tests unitaires pour verifier la robustesse du serveur et des clients.
 - Utilisez un systme de gestion de version comme Git pour suivre les modifications.
 
 
