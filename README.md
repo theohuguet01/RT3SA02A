@@ -1,4 +1,4 @@
-SAE 3.02 - Developper des applications communicantes APP; Projet en autonomie
+# SAE 3.02 - Developper des applications communicantes APP; Projet en autonomie
 
 ## Description du projet
 Ce projet consiste  dvelopper une application de gestion des absences base sur une architecture client-serveur en utilisant les sockets. Le serveur sera crit en langage C et devra communiquer efficacement avec plusieurs clients. Lapplication permettra de grer et de suivre les absences dans un contexte prcis dfini par le projet.
